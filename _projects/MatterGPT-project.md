@@ -8,6 +8,7 @@ description: |
 people:
   - bizhu
   - kedeng
+  - jinxiang
 
 layout: project
 last-updated: 2026-03-18
