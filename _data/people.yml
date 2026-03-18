@@ -36,6 +36,11 @@ kedeng:
     role: grad
     image: /img/people/kedeng.jpg
 
+jinxiang:
+    display_name: "叶锦翔 Ye jinxiang"
+    role: grad
+    image: /img/people/jinxiang.jpg
+
 # storm:
 #     display_name: "虚位以待  We need you!"
 #     role: grad
