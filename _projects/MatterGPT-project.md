@@ -6,8 +6,8 @@ notitle: false
 description: |
 
 people:
-  - profx
-  - chenxi
+  - bizhu
+  - kedeng
 
 layout: project
 last-updated: 2026-03-18
