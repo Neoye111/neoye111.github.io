@@ -10,7 +10,8 @@ people:
   - chenxi
 
 layout: project
-last-updated: 2024-08-08
+last-updated: 2026-03-18
+image: /img/projects/cdt501.jpeg
 link: https://lms.ln.edu.hk/course/view.php?id=49992
 ---
 
