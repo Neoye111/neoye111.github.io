@@ -1,20 +1,21 @@
 ---
-title: 新型OLED材料的高通量量子化学预测与筛选 Discovery of new organic light-emitting diode (OLED) materials with high-throughput screening
+title: 2026/04/26 CDT501 single work
 
 notitle: false
 
 description: |
 
 people:
-  - profx
-  - chenxi
+  - jinxiang
 
 layout: project
-image: /img/projects/oled.png
-last-updated: 2020-01-26
+last-updated: 2026-03-18
+image: /img/projects/cdt501-1.jpeg
+link: https://lms.ln.edu.hk/course/view.php?id=49992
 ---
 
 ## 简介 Introduction
+Topic：Education
 
-与国内一线OLED供应商合作，借助高通量量子化学计算及数据驱动方法，我们开展了新型OLED材料的预测研究。现在该项目正在研发中。
+
 
